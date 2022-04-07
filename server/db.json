@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mounir",
+      "email": "Mounir@gmail.com",
+      "phone": "9874563210",
+      "dob": "20/01/1987"
+    },
+    {
+      "name": "Iyed Zammeli",
+      "email": "iyedzammeli@gmail.com",
+      "phone": "9555552",
+      "dob": "03/05/2000",
+      "id": 2
+    },
+    {
+      "name": "Malek",
+      "email": "malek@gmail.com",
+      "phone": "98565245",
+      "dob": "03/10/2001",
+      "id": 3
+    }
+  ]
+}
